@@ -2,8 +2,7 @@
 > Tugas Besar Aplikasi Kasir 
 
 ## Struktur Folder
-1. docs:
-2. src: source code
+1. src: source code
 
 ## Compile dan run
 1.Run dan Compile dari netbeans
@@ -17,11 +16,11 @@
 3. Duta Razaq Suhoyo : Dalam penyelesaian Tugas Besar ini saya berkontribusi dengan merancang source code aplikasi kasir dan UI pada netbeans.
 
 ## Anggota Kelompok
-Nama | NIM | Keterangan
--|-|-
-Azhar Amirul Abid | 1301213032 | Source Code 
-Duta Razaq Suhoyo | 1301210280 | Data 
-Hemia Lisa Simbolon | 1301210526 | Source Code
-Muhammad Wahyu Pratama | 1301213199 | Data 
+Nama | NIM 
+-|-
+Azhar Amirul Abid | 1301213032  
+Duta Razaq Suhoyo | 1301210280  
+Hemia Lisa Simbolon | 1301210526 
+Muhammad Wahyu Pratama | 1301213199 
 
-[Laporan](...)
+
